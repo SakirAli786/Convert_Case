@@ -1,0 +1,44 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/index.html
+Subject: Document
+Date: Mon, 6 Mar 2023 19:57:04 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--9h3qU7EywG4G9Swmu2Ml9r3H8gQV9t6ntO1aTbzVp6----"
+
+
+------MultipartBoundary--9h3qU7EywG4G9Swmu2Ml9r3H8gQV9t6ntO1aTbzVp6----
+Content-Type: text/html
+Content-ID: <frame-BD29724CE995C76273DAA7378DFEC27F@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/index.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Document</title>
+   =20
+<link rel=3D"stylesheet" href=3D"http://127.0.0.1:5500/style.css?_cacheOver=
+ride=3D1678132615729"></head>
+<body>
+<ul>
+    <li><a href=3D"http://127.0.0.1:5500/index.html#">hjkgfsdhjkgfsd</a></l=
+i>
+</ul>
+<!-- Code injected by live-server -->
+
+
+</body></html>
+------MultipartBoundary--9h3qU7EywG4G9Swmu2Ml9r3H8gQV9t6ntO1aTbzVp6----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/style.css?_cacheOverride=1678132615729
+
+@charset "utf-8";
+
+ul li a { text-decoration: none; }
+------MultipartBoundary--9h3qU7EywG4G9Swmu2Ml9r3H8gQV9t6ntO1aTbzVp6------
