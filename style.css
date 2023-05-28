@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+}
+.container{
+    background-color: aquamarine;
+    width: 700px;
+    margin: 40px 0 0 20px;
+    display: grid;
+    grid-template-columns: 200px 300px auto;
+    grid-template-rows: 50px 50px;
+    grid-gap: 20px 40px;
+    box-shadow: 6px 3px black;
+
+    /* box-shadow: -6px -3px green; */
+    
+   
+    
+
+}
+.items1{
+    background-color: magenta;
+    text-align: center;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    /* padding-left: 45%; */
+    font-weight: 900;
+    color: white;
+    grid-column: 1/4;
+    text-shadow: 3px 2px blue;
+
+
+    
+}
+.items2{
+    background-color: palegreen;
+    text-align: center;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    padding-left: 45%;
+    font-weight: 900;
+    color: white;
+    grid-row: 2/4;
+    text-shadow: 3px 2px green;
+    
+}
+.items3{
+    background-color: gold;
+    text-align: center;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    padding-left: 45%;
+    font-weight: 900;
+    color: white;
+    grid-column: 2/4;
+    text-shadow: 3px 2px brown;
+}
+.items4{
+    background-color: blue;
+    text-align: center;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    padding-left: 45%;
+    font-weight: 900;
+    color: white;
+    grid-column: 2/4;
+    text-shadow: 3px 2px orange;
+}
+.items5{
+    background-color: green;
+    text-align: center;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    padding-left: 45%;
+    font-weight: 900;
+    color: white;
+    text-shadow: 3px 2px red;
+}
+.items6{
+    background-color: red;
+    text-align: center;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    padding-left: 45%;
+    font-weight: 900;
+    color: white;
+    grid-column: 2/4;
+    text-shadow: 3px 2px blue;
+   
+}
+#box{
+    border: 2px solid white;
+    width: 10px;
+    height: 30px;
+    animation: sa 3s infinite alternate;                                                                                                                                                                                                                                                                                     ;
+}
+@keyframes sa{
+   0%{
+        background-color: violet; width: 3px;
+    }
+    25%{
+        background-color: green; width: 300px;
+    }
+    37%{
+        background-color: magenta; width: 400px;
+    }
+    48%{
+        background-color: gold; width: 500px;
+    }
+    59%{
+        background-color: red; width: 600px;
+    }
+    75%{
+        background-color: aqua; width: 700px;
+    }
+    84%{
+        background-color: blue; width: 800px;
+    }
+
+    100%{
+        background-color: powderblue;width: 900px;
+    }
+}
